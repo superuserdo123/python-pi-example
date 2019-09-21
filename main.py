@@ -6,10 +6,7 @@ def main(msg):
    print(msg)
 
 def anotherone():
-<<<<<<< HEAD
-   print("New function")
-=======
    print("whatupp")
->>>>>>> v01
+
 
 main("Hello People")
