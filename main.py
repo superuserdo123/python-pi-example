@@ -5,4 +5,7 @@ def main(msg):
    //hello
    print(msg)
 
+def anotherone():
+   print("whatupp")
+
 main("Hello People")
